@@ -7,6 +7,8 @@
 .title {
     text-align: center;
     /* margin: 50px; */
+    width: 50%;
+    height: 10%;
 }
 
 .hoja {
@@ -18,3 +20,9 @@
     width: 40px;
     height: 40px;
 }
+
+/* @media (max-width: 640px) {
+	.title {
+		width: ;
+	}
+} */
