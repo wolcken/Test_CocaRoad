@@ -1,0 +1,22 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin: 5%;
+}
+
+.hojaHome {
+    width: 200px;
+}
+
+.btnInicio {
+    /* width: 100px; */
+    /* height: 50px; */
+    margin: 15px;
+    /* font-size: 35px; */
+}
+
+.hojaBtn {
+    width: 30px;
+}

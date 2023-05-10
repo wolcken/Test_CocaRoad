@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.title {
+    text-align: center;
+    /* margin: 50px; */
+}
+
+.hoja {
+    width: 100px;
+    height: 100px;
+}
+
+.btnLog {
+    width: 40px;
+    height: 40px;
+}

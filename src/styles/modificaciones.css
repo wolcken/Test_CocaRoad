@@ -1,0 +1,22 @@
+.modificaciones {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin-top: 3%;
+}
+
+.modif {
+    display: flex;
+    flex-direction: column;
+    margin: 3%;
+    width: 60%;
+    align-items: center;
+
+}
+
+.form-select {
+    margin-bottom: 3%;
+    /* width: 50%; */
+    height: 60px;
+}
